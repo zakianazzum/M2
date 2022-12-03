@@ -1,0 +1,7 @@
+Time t (min),Temperature θ (°C),RIce in Temperature  Δθ(°C),Rice in temparature in 5 min Δθ (°C),Rise in temparature per unit min (Δθ  = Δθ/5) (°C)
+0,27.6,0,2,0.4
+1,29.1,1.5,2,0.4
+2,30.7,1.6,2,0.4
+3,33.6,2.9,2,0.4
+4,36.7,3.1,2,0.4
+5,39.6,2.9,2,0.4
